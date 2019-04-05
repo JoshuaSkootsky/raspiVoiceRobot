@@ -1,0 +1,49 @@
+Australia	one trillion, three hundred and sixty-five billion, three hundred and seventy-seven million point zero
+Austria	four hundred and twenty-two billion, six hundred and eight million point zero
+Belgium	five hundred and ten billion, four hundred and twenty-three million point zero
+Brazil	two trillion, thirty-two billion, eight hundred and ten million point zero
+Bulgaria	fifty-seven billion, five hundred and six million point zero
+Canada	one trillion, four hundred and ninety-four billion, five hundred and thirty-seven million point zero
+China	eleven trillion, three hundred and eight billion point zero
+Colombia	two hundred and seventy-seven billion, seven hundred million point zero
+Cyprus	twenty-one billion, nine hundred and forty-two million, eighty thousand, six hundred and eleven point zero
+Czech Republic	two hundred and thirty-five billion, one hundred and four million point zero
+Denmark	three hundred and thirty-nine billion, six hundred and ninety-six million point zero
+Estonia	twenty-four billion, five hundred and one million point zero
+Finland	two hundred and sixty-eight billion, four hundred and twenty-one million point zero
+France	two trillion, six hundred and seventy billion, six hundred and sixty million point zero
+Germany	three trillion, nine hundred and ninety-nine billion, ninety-nine million point zero
+Greece	two hundred and five billion, seven hundred and thirty-six million point zero
+Hong Kong	three hundred and forty-two billion, seven hundred and seventy million point zero
+Hungary	one hundred and thirty-nine billion, five hundred and ninety-five million point zero
+India	two trillion, two hundred and fifty-nine billion, five hundred million point zero
+Ireland	three hundred and forty-eight billion, six hundred and ninety-nine million point zero
+Israel	three hundred and sixteen billion, three hundred and twelve million point zero
+Italy	two trillion, five billion, two hundred and ninety-three million point zero
+Japan	three trillion, eight hundred and fifteen billion, four hundred and sixteen million, nine hundred thousand point zero
+Latvia	thirty billion, one hundred and twenty-one million point zero
+Lithuania	forty-six billion, three hundred and seventy-six million point zero
+Luxembourg	sixty-seven billion, ninety-five million point zero
+Malaysia	three hundred and thirty-eight billion, nine hundred and forty-five million, three hundred and ten thousand, seven hundred and twenty point zero
+Malta	twelve billion, ninety-three million point zero
+Mexico	one trillion, forty-nine billion, eight hundred and fifty-four million point zero
+Netherlands	seven hundred and ninety-nine billion, five hundred and six million point zero
+New Zealand	one hundred and eighty-nine billion, five hundred and ninety-four million point zero
+Norway	four hundred and forty billion, ninety-six million point zero
+Pakistan	two hundred and ninety billion, four hundred and forty-seven million point zero
+Poland	five hundred and ten billion, nine hundred and sixty-six million point zero
+Portugal	two hundred and twenty-one billion, eight hundred and sixty-nine million point zero
+Romania	two hundred and ten billion, six hundred and forty-five million point zero
+Russia	one trillion, seven billion point zero
+Singapore	three hundred and five billion, one hundred and twenty-three million point zero
+Slovakia	one hundred and one billion, six hundred and three million point zero
+Slovenia	forty-eight billion, one hundred and two million point zero
+South Africa	three hundred and seventy-four billion, nine hundred and forty-six million point zero
+South Korea	one trillion, four hundred and forty-eight billion point zero
+Spain	one trillion, three hundred and ten billion, one hundred and seventy-nine million point zero
+Sweden	five hundred and twenty-seven billion, five hundred and seventy-six million point zero
+Switzerland	six hundred and sixty-eight billion, two hundred and ninety-three million point zero
+Thailand	three hundred and seventy-six billion, four hundred and eighty-three million point zero
+Turkey	eight hundred and fifty-five billion, three hundred and thirty-two million point zero
+United Kingdom	two trillion, eight hundred and thirty-one billion, nine hundred and thirty-four million point zero
+United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million point zero
