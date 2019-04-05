@@ -1,49 +1,49 @@
-Australia 1,365,377,000,000
-Austria 422,608,000,000
-Belgium 510,423,000,000
-Brazil 2,032,810,000,000
-Bulgaria 57,506,000,000
-Canada 1,494,537,000,000
-China 11,308,000,000,000
-Colombia 277,700,000,000
-Cyprus 21,942,080,611
-Czech Republic 235,104,000,000
-Denmark 339,696,000,000
-Estonia 24,501,000,000
-Finland 268,421,000,000
-France 2,670,660,000,000
-Germany 3,999,099,000,000
-Greece 205,736,000,000
-Hong Kong 342,770,000,000
-Hungary 139,595,000,000
-India 2,259,500,000,000
-Ireland 348,699,000,000
-Israel 316,312,000,000
-Italy 2,005,293,000,000
-Japan 3,815,416,900,000
-Latvia 30,121,000,000
-Lithuania 46,376,000,000
-Luxembourg 67,095,000,000
-Malaysia 338,945,310,720
-Malta 12,093,000,000
-Mexico 1,049,854,000,000
-Netherlands 799,506,000,000
-New Zealand 189,594,000,000
-Norway 440,096,000,000
-Pakistan 290,447,000,000
-Poland 510,966,000,000
-Portugal 221,869,000,000
-Romania 210,645,000,000
-Russia 1,007,000,000,000
-Singapore 305,123,000,000
-Slovakia 101,603,000,000
-Slovenia 48,102,000,000
-South Africa 374,946,000,000
-South Korea 1,448,000,000,000
-Spain 1,310,179,000,000
-Sweden 527,576,000,000
-Switzerland 668,293,000,000
-Thailand 376,483,000,000
-Turkey 855,332,000,000
-United Kingdom 2,831,934,000,000
-United States 19,754,300,000,000
+Australia	one trillion, three hundred and sixty-five billion, three hundred and seventy-seven million
+Austria	four hundred and twenty-two billion, six hundred and eight million
+Belgium	five hundred and ten billion, four hundred and twenty-three million
+Brazil	two trillion, thirty-two billion, eight hundred and ten million
+Bulgaria	fifty-seven billion, five hundred and six million 
+Canada	one trillion, four hundred and ninety-four billion, five hundred and thirty-seven million
+China	eleven trillion, three hundred and eight billion
+Colombia	two hundred and seventy-seven billion, seven hundred million
+Cyprus	twenty-one billion, nine hundred and forty-two million, eighty thousand, six hundred and eleven
+Czech Republic	two hundred and thirty-five billion, one hundred and four million
+Denmark	three hundred and thirty-nine billion, six hundred and ninety-six million
+Estonia	twenty-four billion, five hundred and one million
+Finland	two hundred and sixty-eight billion, four hundred and twenty-one million
+France	two trillion, six hundred and seventy billion, six hundred and sixty million
+Germany	three trillion, nine hundred and ninety-nine billion, ninety-nine million
+Greece	two hundred and five billion, seven hundred and thirty-six million
+Hong Kong	three hundred and forty-two billion, seven hundred and seventy million
+Hungary	one hundred and thirty-nine billion, five hundred and ninety-five million
+India	two trillion, two hundred and fifty-nine billion, five hundred million
+Ireland	three hundred and forty-eight billion, six hundred and ninety-nine million
+Israel	three hundred and sixteen billion, three hundred and twelve million
+Italy	two trillion, five billion, two hundred and ninety-three million
+Japan	three trillion, eight hundred and fifteen billion, four hundred and sixteen million, nine hundred thousand
+Latvia	thirty billion, one hundred and twenty-one million
+Lithuania	forty-six billion, three hundred and seventy-six million
+Luxembourg	sixty-seven billion, ninety-five million
+Malaysia	three hundred and thirty-eight billion, nine hundred and forty-five million, three hundred and ten thousand, seven hundred and twenty
+Malta	twelve billion, ninety-three million
+Mexico	one trillion, forty-nine billion, eight hundred and fifty-four million
+Netherlands	seven hundred and ninety-nine billion, five hundred and six million
+New Zealand	one hundred and eighty-nine billion, five hundred and ninety-four million
+Norway	four hundred and forty billion, ninety-six million
+Pakistan	two hundred and ninety billion, four hundred and forty-seven million
+Poland	five hundred and ten billion, nine hundred and sixty-six million
+Portugal	two hundred and twenty-one billion, eight hundred and sixty-nine million
+Romania	two hundred and ten billion, six hundred and forty-five million
+Russia	one trillion, seven billion
+Singapore	three hundred and five billion, one hundred and twenty-three million
+Slovakia	one hundred and one billion, six hundred and three million
+Slovenia	forty-eight billion, one hundred and two million
+South Africa	three hundred and seventy-four billion, nine hundred and forty-six million
+South Korea	one trillion, four hundred and forty-eight billion
+Spain	one trillion, three hundred and ten billion, one hundred and seventy-nine million
+Sweden	five hundred and twenty-seven billion, five hundred and seventy-six million
+Switzerland	six hundred and sixty-eight billion, two hundred and ninety-three million
+Thailand	three hundred and seventy-six billion, four hundred and eighty-three million
+Turkey	eight hundred and fifty-five billion, three hundred and thirty-two million
+United Kingdom	two trillion, eight hundred and thirty-one billion, nine hundred and thirty-four million
+United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million
