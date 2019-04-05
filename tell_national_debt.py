@@ -102,7 +102,7 @@ class MyAssistant:
             f = open("hack.txt").read()
             lines = f.split('\n')
             for line in lines:
-                word = line.split()
+                word = line.split('\t')
             
                 aiy.voice.tts.say("The national debt of"+word[0]+"is"+str(word[1]))
             
