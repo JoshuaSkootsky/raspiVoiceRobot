@@ -17,33 +17,33 @@ def robot_GO():
     GPIO.output(4, 1)
     GPIO.output(17, 1)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(4, 0)
     GPIO.output(17, 0)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(17, 1)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(17, 0)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(4, 1)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(4, 0)
 
-    sleep(1)
+    sleep(5)
 
     GPIO.output(4, 1)
     GPIO.output(17, 1)
 
-    sleep(2)
+    sleep(7)
 
     GPIO.cleanup()
 
