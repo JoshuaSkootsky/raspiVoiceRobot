@@ -1,4 +1,6 @@
 Australia	one trillion, three hundred and sixty-five billion, three hundred and seventy-seven million
+United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million
+United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million
 Austria	four hundred and twenty-two billion, six hundred and eight million
 Belgium	five hundred and ten billion, four hundred and twenty-three million
 Brazil	two trillion, thirty-two billion, eight hundred and ten million
@@ -46,4 +48,5 @@ Switzerland	six hundred and sixty-eight billion, two hundred and ninety-three mi
 Thailand	three hundred and seventy-six billion, four hundred and eighty-three million
 Turkey	eight hundred and fifty-five billion, three hundred and thirty-two million
 United Kingdom	two trillion, eight hundred and thirty-one billion, nine hundred and thirty-four million
+United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million
 United States	nineteen trillion, seven hundred and fifty-four billion, three hundred million
